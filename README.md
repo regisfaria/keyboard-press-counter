@@ -3,6 +3,8 @@
 ## Overview
 Lately I was wondering how many key presses are being done when I'm coding. So this code aims to give me that answer.
 
+The code recieves the name of a key you wish that the script stop to run and give you the total of key pressed.
+
 ## Installation and Running
 Just install the following py module and run: 
 
