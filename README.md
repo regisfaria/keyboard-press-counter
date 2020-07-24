@@ -10,8 +10,9 @@ Just install the following py module and run:
 
 ```python
 pip3 install keyboard
-python3 counter.py keyboard_key_to_stop_counting
+sudo python3 counter.py keyboard_key_to_stop_counting
 ```
+Note: This code must be run with sude, as it is a dependence from 'keyboard module'.
 
 I'm using python v3.6.9.
 
