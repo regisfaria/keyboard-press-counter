@@ -10,7 +10,7 @@ Just install the following py module and run:
 
 ```python
 pip3 install keyboard
-python3 counter.py keyboard_to_stop_counting
+python3 counter.py keyboard_key_to_stop_counting
 ```
 
 I'm using python v3.6.9.
